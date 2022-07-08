@@ -34,5 +34,14 @@
     "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
     "statusListCredential": "https://ioxayo.github.io/cred-status-8/69EXRNMJMS",
     "statusListIndex": 2
+  },
+  {
+    "timestamp": "2022-07-08T02:40:58.251Z",
+    "credentialSubject": "did:key:z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
+    "credentialAction": "issued",
+    "issuerDid": "did:web:ezike.io",
+    "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
+    "statusListCredential": "https://ioxayo.github.io/cred-status-8/URBPT793BJ",
+    "statusListIndex": 1
   }
 ]
