@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "timestamp": "2022-07-08T01:46:49.071Z",
+    "credentialSubject": "did:key:z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
+    "credentialAction": "issued",
+    "issuerDid": "did:web:ezike.io",
+    "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
+    "statusListCredential": "https://ioxayo.github.io/cred-status-8/2CGPRFXYG7",
+    "statusListIndex": 1
+  }
+]
