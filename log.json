@@ -43,5 +43,13 @@
     "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
     "statusListCredential": "https://ioxayo.github.io/cred-status-8/URBPT793BJ",
     "statusListIndex": 1
+  },
+  {
+    "timestamp": "2022-07-08T04:49:42.368Z",
+    "credentialAction": "revoked",
+    "issuerDid": "did:web:ezike.io",
+    "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
+    "statusListCredential": "https://ioxayo.github.io/cred-status-8/69EXRNMJMS",
+    "statusListIndex": 1
   }
 ]
